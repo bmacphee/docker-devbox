@@ -1,5 +1,5 @@
 #!/bin/bash
 
-bindfs -o nonempty /var/shared/.docker_protobuf_messages /var/shared/devel/are-platform/analytics/Common/Messages
+bindfs -o nonempty /var/shared/.docker_protobuf_messages /home/brad/devel/analytics/Common/Messages
 
 bash
